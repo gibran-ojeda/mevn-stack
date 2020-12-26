@@ -9,17 +9,15 @@ _Este proyecto es lo que hice mientras miraba el curso del stack MEVN de FastCod
 
 _Una vez que tengas el repositorio, basta con ejecutar_
 
-_$npm install_
-
 ```
-Da un ejemplo
+npm install
 ```
 
-_Y repite_
+_Después, solo basta con que ejecutes_
 
 ```
-hasta finalizar
+npm run dev
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_No te olvides de asegurarte que tu servicio de MongoDB esté activo :)_
 
