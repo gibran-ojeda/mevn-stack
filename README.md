@@ -1,9 +1,6 @@
-# mevn-stack
-Curso de Fazt usando el stack MEVN (MongoDB, Express, Vuejs, Node)
-
 # MEVN-STACK
 
-_Este proyecto es lo que hice mientras miraba el curso del stack MEVN de FastCode_
+_Este proyecto es lo que hice mientras miraba el curso del stack MEVN(MongoDB, Express, Vuejs, Node) de FastCode_
 
 ### Instalación 🔧
 
