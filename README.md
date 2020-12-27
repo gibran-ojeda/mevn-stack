@@ -1,6 +1,6 @@
 # MEVN-STACK
 
-_Este proyecto es lo que hice mientras miraba el curso del stack MEVN(MongoDB, Express, Vuejs, Node) de FastCode_
+_Este proyecto es lo que hice mientras miraba el curso del stack MEVN(MongoDB, Express, Vuejs, Node) de FaztCode_
 
 ### Instalación 🔧
 
